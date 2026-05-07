@@ -4,12 +4,14 @@ redis
 celery
 python-jose[cryptography]
 passlib[bcrypt]
+bcrypt==4.0.1
 langchain
 langchain-core
 langchain-community
 langchain-groq
 langchain-huggingface
 langchain-chroma
+langchain-text-splitters
 chromadb
 sentence-transformers
 huggingface-hub
