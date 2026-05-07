@@ -70,7 +70,7 @@ if not st.session_state.token:
             else:
                 st.error("Invalid credentials")
 
-        st.info("Demo credentials: sachin / password123")
+        st.info("Credentials: string / string")
 
 # --- Main dashboard ---
 else:
